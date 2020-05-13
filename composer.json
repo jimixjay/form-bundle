@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0 || ^5.0",
     "exercise/htmlpurifier-bundle": "^0.2",
     "giggsey/libphonenumber-for-php": "^8.8",
     "neitanod/forceutf8": "^2.0"
